@@ -1,7 +1,5 @@
 https://www.bezkoder.com/node-js-mongodb-auth-jwt/
 
-DATABASE_URL = `mongodb+srv://root:root@cluster0.dn9ftk7.mongodb.net/Nikhil_DB?retryWrites=true&w=majority`
-
 Server is running on port 8080.
 Successfully connect to MongoDB.
 added 'user' to roles collection
